@@ -1,4 +1,4 @@
-Here are the programs in Java that I wrote for my AP Computer Sciece A cours.  <br />
+Here are the programs in Java that I wrote for my AP Computer Sciece A course.  <br />
 
 Description:  <br />
 There are 15 units and each unit has projects that are in the name of activities and labs.  <br />

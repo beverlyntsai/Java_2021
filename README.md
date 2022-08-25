@@ -3,7 +3,7 @@ Here are the programs in Java that I wrote for my AP Computer Sciece A course.  
 Description:  <br />
 There are 15 units and each unit has projects that are in the name of activities and labs.  <br />
 
-Projects
+Projects:<br />
 Project 1: Compile Technique  <br />
 Project 2: Primitive Type Arithmetic Operator  <br />
 Project 3: Logic Operator If Else Switch  <br />
